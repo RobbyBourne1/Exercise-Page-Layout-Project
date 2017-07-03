@@ -23,6 +23,7 @@ body{
     line-height: 1.6;
 }
 
+
 ul{
     padding-left: 20px;
     margin-top: 0;
@@ -46,7 +47,7 @@ a:hover{
     color: blue;
 }
 
-header{ 
+header{
     padding-bottom: 15px;
     margin-bottom: 20px;
     border-bottom: 2px solid #ddddff;
@@ -76,3 +77,19 @@ header{
 #main_nav a:hover{
     background: #ddddff;
 }
+
+/* Mobile CSS START */
+
+
+
+/* Mobile CSS END */
+
+/* Tablet CSS START */
+
+
+
+/* Tablet CSS END */
+
+/* Desktop CSS START */
+
+/* Desktop CSS END */
