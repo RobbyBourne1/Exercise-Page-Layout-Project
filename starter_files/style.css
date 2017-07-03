@@ -80,8 +80,27 @@ header{
 
 /* Mobile CSS START */
 
+#main_content {
+  background-color: #ddffff;
+  padding: 1em;
+}
 
+#sidebar_content div {
+  background-color: #ffffdd;
+  padding: 2em;
+  margin: 1em 0;
+}
 
+#site_footer {
+  background-color: #fcdaa8;
+  display: flex;
+  justify-content: space-around;
+  padding: 2em;
+}
+
+#site_footer nav a {
+  margin: 2em;
+}
 /* Mobile CSS END */
 
 /* Tablet CSS START */
